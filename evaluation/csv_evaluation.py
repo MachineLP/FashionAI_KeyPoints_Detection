@@ -1,6 +1,6 @@
 import csv
 import os
-import sys
+import sys 
 import numpy as np
 import cv2
 from scipy.ndimage.filters import gaussian_filter
